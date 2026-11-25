@@ -18,12 +18,3 @@ RUN npm install && npm run build
 RUN chmod +x docker/start.sh && chmod -R 775 storage bootstrap/cache database
 
 CMD ["bash", "docker/start.sh"]
-
-yds
-
-
-
-
-
-
-dsdsdsdsdsd
